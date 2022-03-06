@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    background-color:#394D9D;
+    font-size: 45px;
+}
+#last{
+    color:black;
+    background-color:#B1B4C1;
+    font-size: 40px;
+}
+p{
+    color: black;
+    font-size:25px;
+    text-transform:capitalize;
+    text-decoration:solid;
+    line-height:2;
+    letter-spacing:2px;
+    width: 80%;
+    background-image: url(bandarban.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
